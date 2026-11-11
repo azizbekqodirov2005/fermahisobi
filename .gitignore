@@ -1,0 +1,10 @@
+node_modules
+dist
+data
+.env
+.env.*
+!.env.example
+.netlify
+deploy-log.txt
+*.log
+.DS_Store
